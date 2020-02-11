@@ -1,2 +1,2 @@
-# CS-Courses-Notes
+# CS Courses Notes
 Notes of Computer Science Courses I am taking
